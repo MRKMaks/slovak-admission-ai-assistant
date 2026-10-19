@@ -13,7 +13,6 @@ venv/
 database.db
 
 # Generated PDFs
-*.pdf
 generated/
 
 # OS specific
