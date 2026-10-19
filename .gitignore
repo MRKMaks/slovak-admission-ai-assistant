@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Database
+database.db
+
+# Generated PDFs
+*.pdf
+generated/
+
+# OS specific
+desktop.ini
+.DS_Store
